@@ -1,10 +1,5 @@
 package com.example;
 
-/**
- * Hello world!
- *
- */
-
 class ArithmeticDemo {
  public static void main(String[] args) {
  int result = 1 + 2;
